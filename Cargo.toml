@@ -20,3 +20,4 @@ blowfish = { version = "0.9.1", features = ["bcrypt"] }
 hmac = "0.12.1"
 byteorder = "1.4.3"
 rand = "0.8.5"
+aws-lc-rs = { version = "1.7.3", features = ["fips"]}
